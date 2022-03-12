@@ -11,8 +11,6 @@ int main(){
     Student Alim;
     Alim.id = 101;
     Alim.gpa = 3.5;
-    Alim.fullName = 234;
-    cout << Alim.id << endl;
     cout  << Alim.gpa << endl;
 
     return 0;
